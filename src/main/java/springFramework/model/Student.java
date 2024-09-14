@@ -4,6 +4,13 @@ public class Student {
     int studentId;
     int studentAge;
 
+    Student(){
+
+    }
+    void talk() {
+        System.out.println("I am student");
+    }
+
     public int getStudentId() {
         return studentId;
     }

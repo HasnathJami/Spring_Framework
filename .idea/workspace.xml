@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d61b3fd-80e9-4124-b10a-334d01202790" name="Changes" comment="" />
+    <list default="true" id="3d61b3fd-80e9-4124-b10a-334d01202790" name="Changes" comment="init project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springFramework/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springFramework/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springFramework/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springFramework/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springFramework/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springFramework/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springFramework/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springFramework/model/Student.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1725823613601</updated>
     </task>
+    <task id="LOCAL-00001" summary="init project">
+      <created>1726344005325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726344005325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +92,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -92,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project" />
   </component>
 </project>
