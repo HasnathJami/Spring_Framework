@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="person" class="springFramework.model.Person" scope="prototype">
+        <property name="age" value="100"/>
+        <property name="student" ref="student_b_id"/>
+    </bean>
+
+    <bean id="student_b_id" class="springFramework.model.Student" scope="prototype"/>
+</beans>
